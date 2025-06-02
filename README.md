@@ -27,7 +27,8 @@ I am currently a full-time undergraduate student soon to be entering third year 
 <a href="URL_REDIRECT" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" height="40" /></a>
 
 ## Contact Me
-<a href="https://www.linkedin.com/in/angelo-luis-lagdameo/"/><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin_badge"/></a>
+<a href="https://www.linkedin.com/in/angelo-luis-lagdameo/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin_badge"/></a>
+<a href="mailto:lagdameoangelo@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail_badge"/></a>
 
 ## Stats
 [![Angelo's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ninjangelo)](https://github.com/anuraghazra/github-readme-stats)

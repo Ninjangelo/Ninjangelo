@@ -5,7 +5,6 @@
 # Hi, I'm Angelo👋
 I am currently a full-time undergraduate student soon to be entering third year of their BSc Computer Science course.
 ### Current Interests:
- - Full-Stack Development
  - Software Development
  - AI and ML Engineering
 

@@ -30,6 +30,7 @@ I am currently a full-time undergraduate student soon to be entering third year 
 ## Contact Me
 <a href="https://www.linkedin.com/in/angelo-luis-lagdameo/"/><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin_badge"/></a>
 
+## Stats
 [![Angelo's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ninjangelo)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ninjangelo&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 

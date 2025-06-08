@@ -14,7 +14,7 @@ I am currently a full-time undergraduate student soon to be entering third year 
 
 ## Complete Repositories
 - [Deskacito](https://github.com/Ninjangelo/Team_Deskacito_2023-24)
-- [Amped Beats](https://github.com/Ninjangelo/Amped_Beats_Website)
+- [Amped Beats](https://github.com/Ninjangelo/Amped-Beats)
 
 ## Technologies and Tools
 <a href="URL_REDIRECT" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" height="40" /></a>

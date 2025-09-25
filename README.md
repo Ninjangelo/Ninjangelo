@@ -5,6 +5,7 @@
 # Hi, I'm Angelo👋
 I am currently a full-time undergraduate student soon to be entering third year of their BSc Computer Science course. The repositories consists of personal, leisure-time projects as well as education-based projects conducted within my course.
 ### Current Interests:
+ - Full Stack
  - Software Development
  - AI and ML Engineering
 

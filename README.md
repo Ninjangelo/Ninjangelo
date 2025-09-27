@@ -3,7 +3,7 @@
 </p>
 
 # Hi, I'm Angelo👋
-I am currently a full-time undergraduate student soon to be entering third year of their BSc Computer Science course. The repositories consists of personal, leisure-time projects as well as education-based projects conducted within my course.
+I am currently a full-time undergraduate student studying in their third and final year of their BSc Computer Science course. The repositories consists of personal, leisure-time projects as well as education-based projects that I have created as part of the undergraduate course i'm currently undertaking.
 ### Current Interests:
  - Full Stack
  - Software Development

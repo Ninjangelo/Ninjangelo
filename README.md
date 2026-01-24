@@ -6,16 +6,19 @@
 I am currently a full-time undergraduate student studying in their third and final year of their BSc Computer Science course. The repositories consists of personal, leisure-time projects as well as education-based projects that I have created as part of the undergraduate course i'm currently undertaking.
 ### Current Interests:
  - Full Stack
- - Software Development
- - AI and ML Engineering
+ - Software Engineering
+ - AI and Machine Learning Engineering
 
-## Progressive Repositories
-- [Web-Based Portfolio](https://github.com/Ninjangelo/Ninjangelo.github.io)
+## Progressive Repositories / Projects
+- [Opticart](https://github.com/Ninjangelo/opticart)
+- [Personality Quiz](https://github.com/Ninjangelo/personality-quiz)
 - [Spelling Wizard Practice](https://github.com/Ninjangelo/Spelling-Wizard-Practice)
 
-## Complete Repositories
-- [Deskacito](https://github.com/Ninjangelo/Team_Deskacito_2023-24)
+## Complete Repositories / Projects
+- [Colour Picker](https://github.com/Ninjangelo/colour-picker-codex)
+- [Portfolio Website](https://github.com/Ninjangelo/Ninjangelo.github.io)
 - [Amped Beats](https://github.com/Ninjangelo/Amped-Beats)
+- [Deskacito](https://github.com/Ninjangelo/Team_Deskacito_2023-24)
 
 ## Technologies and Tools
 <a href="URL_REDIRECT" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="40" /></a>

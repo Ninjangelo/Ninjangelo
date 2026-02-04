@@ -9,7 +9,7 @@ I am currently a full-time undergraduate student studying in their third and fin
  - AI and Machine Learning Engineering
 
 ## Progressive Repositories / Projects
-- [Opticart](https://github.com/Ninjangelo/opticart)
+- [Opticart (Undergraduate Final Year Project)](https://github.com/Ninjangelo/Opticart_FYP)
 - [Personality Quiz](https://github.com/Ninjangelo/personality-quiz)
 - [Spelling Wizard Practice](https://github.com/Ninjangelo/Spelling-Wizard-Practice)
 

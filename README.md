@@ -20,6 +20,8 @@ I am currently a full-time undergraduate student studying in their third and fin
 - [Deskacito](https://github.com/Ninjangelo/Team_Deskacito_2023-24)
 
 ## Technologies and Tools
+
+### <ins>Proficencies</ins>
 <a href="URL_REDIRECT" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="40" /></a>
 <a href="URL_REDIRECT" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="40" /></a>
 <a href="URL_REDIRECT" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" width="40" /></a>

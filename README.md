@@ -11,26 +11,16 @@ I am currently a full-time undergraduate student studying in their third and fin
 
 ## Progressive Repositories / Projects
 - [Opticart (Undergraduate Final Year Project)](https://github.com/Ninjangelo/Opticart_FYP)
+- [AniLibrary)](https://github.com/Ninjangelo/AniLibrary)
 - [Personality Quiz](https://github.com/Ninjangelo/personality-quiz)
-- [Spelling Wizard Practice](https://github.com/Ninjangelo/Spelling-Wizard-Practice)
-
-## Complete Repositories / Projects
-- [Colour Picker](https://github.com/Ninjangelo/colour-picker-codex)
-- [Portfolio Website](https://github.com/Ninjangelo/Ninjangelo.github.io)
-- [Amped Beats](https://github.com/Ninjangelo/Amped-Beats)
-- [Deskacito](https://github.com/Ninjangelo/Team_Deskacito_2023-24)
 
 ## Technologies and Tools
 
-### <ins>Proficencies</ins>
-<a href="URL_REDIRECT" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="40" /></a>
-<a href="URL_REDIRECT" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="40" /></a>
-<a href="URL_REDIRECT" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" width="40" /></a>
-<a href="URL_REDIRECT" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="40" /></a>
-<a href="URL_REDIRECT" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" width="40" /></a>
-<a href="URL_REDIRECT" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="40" /></a>
-<a href="URL_REDIRECT" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="40" /></a>
-<a href="URL_REDIRECT" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="40" /></a>
+### <ins>Technologies</ins>
+[![Technologies](https://skillicons.dev/icons?i=python,php,java,cpp,html,css,js,bootstrap,tailwind,react,mysql,postgres)](https://skillicons.dev)
+
+### <ins>Tools and Services</ins>
+[![Tools and Services](https://skillicons.dev/icons?i=vscode,visualstudio,github,npm,nodejs,figma,vite,fastapi,supabase)](https://skillicons.dev)
 
 ## Contact Me
 <a href="https://www.linkedin.com/in/angelo-luis-lagdameo/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin_badge"/></a>

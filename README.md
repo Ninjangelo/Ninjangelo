@@ -11,7 +11,7 @@ I am currently a full-time undergraduate student studying in their third and fin
 
 ## Progressive Repositories / Projects
 - [Opticart (Undergraduate Final Year Project)](https://github.com/Ninjangelo/Opticart_FYP)
-- [AniLibrary)](https://github.com/Ninjangelo/AniLibrary)
+- [AniLibrary](https://github.com/Ninjangelo/AniLibrary)
 - [Personality Quiz](https://github.com/Ninjangelo/personality-quiz)
 
 ## Technologies and Tools

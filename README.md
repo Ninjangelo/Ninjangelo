@@ -12,6 +12,7 @@ I am currently a full-time undergraduate student studying in their third and fin
 ## Progressive Repositories / Projects
 - [Opticart (Undergraduate Final Year Project)](https://github.com/Ninjangelo/Opticart_FYP)
 - [AniLibrary](https://github.com/Ninjangelo/AniLibrary)
+- [Tunes Alive: West Midlands](https://github.com/Ninjangelo/Tunes_Alive_WM)
 - [Personality Quiz](https://github.com/Ninjangelo/personality-quiz)
 
 ## Technologies and Tools

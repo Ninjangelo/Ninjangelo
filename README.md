@@ -3,17 +3,15 @@
 </p>
 
 # Hi, I'm Angelo👋
-I am currently a full-time undergraduate student studying in their third and final year of their BSc Computer Science course. The repositories consists of personal, leisure-time projects as well as education-based projects that I have created as part of the undergraduate course i'm currently undertaking.
+UPDATE: As of recently, I have recently graduated as a Bachelor of Science with First Class Honours in Computer Science and will be continuing my one more year of studies for a Masters in UX Design. The repositories consists of personal, leisure-time projects as well as education-based projects that I have created as part of the academic career.
 ### Current Interests:
  - Software Engineering
  - UI/UX Design
- - AI and Machine Learning Engineering
 
 ## Progressive Repositories / Projects
 - [Opticart (Undergraduate Final Year Project)](https://github.com/Ninjangelo/Opticart_FYP)
 - [AniLibrary](https://github.com/Ninjangelo/AniLibrary)
 - [Tunes Alive: West Midlands](https://github.com/Ninjangelo/Tunes_Alive_WM)
-- [Personality Quiz](https://github.com/Ninjangelo/personality-quiz)
 
 ## Technologies and Tools
 

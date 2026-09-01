@@ -3,15 +3,10 @@
 </p>
 
 # Hi, I'm Angelo👋
-UPDATE: As of recently, I have recently graduated as a Bachelor of Science with First Class Honours in Computer Science and will be continuing my one more year of studies for a Masters in UX Design. The repositories consists of personal, leisure-time projects as well as education-based projects that I have created as part of the academic career.
+UPDATE: As of recently, I have recently graduated as a Bachelor of Science with First Class Honours in Computer Science and will be continuing another year of my studies in MSc User Experience Design. My repositories consists of personal, leisure-time projects as well as education-based projects that I have created as part of the academic career. Feel free to share your thoughts and input on them if it piques your interest :)
 ### Current Interests:
  - Software Engineering
  - UI/UX Design
-
-## Progressive Repositories / Projects
-- [Opticart (Undergraduate Final Year Project)](https://github.com/Ninjangelo/Opticart_FYP)
-- [AniLibrary](https://github.com/Ninjangelo/AniLibrary)
-- [Tunes Alive: West Midlands](https://github.com/Ninjangelo/Tunes_Alive_WM)
 
 ## Technologies and Tools
 
